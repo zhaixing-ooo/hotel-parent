@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/hotel-business/hotel-floor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-business/hotel-floor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-business/hotel-member/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-business/hotel-member/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-business/hotel-room/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-business/hotel-room/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-business/hotel-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-business/hotel-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-business/hotel-type/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-business/hotel-type/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-business/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-business/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-common/hotel-common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-common/hotel-common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-common/hotel-common-minio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-common/hotel-common-minio/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-common/hotel-common-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-common/hotel-common-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-common/hotel-common-springdoc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-common/hotel-common-springdoc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hotel-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

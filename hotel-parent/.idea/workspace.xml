@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f5be121-3b63-40e1-9202-d6d3053a1477" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SpringApplication" />
+        <option value="SpringBootApplication" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mavenRepository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Software\Develop\maven-3.9.3\conf\settings-20.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2TUzioa9PrBwrLoA1CrVXk5WKqC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "20.0.2",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/hotel-parent(4)",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2579763",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "spring.configuration.checksum": "6523fb701b24016c60718419a6313035",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\hotel-parent(4)\hotel-parent\hotel-business\hotel-system\src\main\java\com\openlab\hotel\service\impl" />
+      <recent name="C:\Users\Administrator\Desktop\hotel-parent(4)\hotel-parent\hotel-business\hotel-system\src\main\java\com\openlab\hotel\service" />
+      <recent name="C:\Users\Administrator\Desktop\hotel-parent(4)\hotel-parent\hotel-business\hotel-system\src\main\java\com\openlab\hotel\mapper" />
+      <recent name="C:\Users\Administrator\Desktop\hotel-parent(4)\hotel-parent\hotel-business\hotel-system\src\main\java\com\openlab\hotel\controller" />
+      <recent name="D:\Workspace\Idea\hotel-parent\hotel-business\hotel-room\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HotelRoomApplication8040">
+    <configuration name="Md5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.openlab.hotel.util.Md5Util" />
+      <module name="hotel-common-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openlab.hotel.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hotel-room" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openlab.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.openlab.hotel" />
+      <option name="MAIN_CLASS_NAME" value="com.openlab.hotel.StringTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication8000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hotel-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.openlab.hotel.GatewayApplication8000" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelFloorApplication8030" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hotel-floor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.openlab.hotel.HotelFloorApplication8030" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openlab.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelMemberApplication8050" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hotel-member" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.openlab.hotel.HotelMemberApplication8050" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelRoomApplication8040" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hotel-room" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.openlab.hotel.HotelRoomApplication8040" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openlab.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelSystemApplication8010" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hotel-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.openlab.hotel.HotelSystemApplication8010" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openlab.hotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HotelTypeApplication8020" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hotel-type" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.openlab.hotel.HotelTypeApplication8020" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Md5Util" />
+      <item itemvalue="JUnit.StringTest.test01" />
+      <item itemvalue="Spring Boot.HotelMemberApplication8050" />
+      <item itemvalue="Spring Boot.GatewayApplication8000" />
+      <item itemvalue="Spring Boot.HotelTypeApplication8020" />
+      <item itemvalue="Spring Boot.HotelSystemApplication8010" />
+      <item itemvalue="Spring Boot.HotelFloorApplication8030" />
+      <item itemvalue="Spring Boot.HotelRoomApplication8040" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HotelFloorApplication8030" />
+        <item itemvalue="Spring Boot.HotelRoomApplication8040" />
+        <item itemvalue="Spring Boot.HotelSystemApplication8010" />
+        <item itemvalue="JUnit.StringTest.test01" />
+        <item itemvalue="Application.Md5Util" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f5be121-3b63-40e1-9202-d6d3053a1477" name="Changes" comment="" />
+      <created>1690622785219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690622785219</updated>
+      <workItem from="1691112579850" duration="22642000" />
+      <workItem from="1691194848581" duration="7841000" />
+      <workItem from="1691218956921" duration="5217000" />
+      <workItem from="1691323035469" duration="14000" />
+      <workItem from="1691367578700" duration="45000" />
+      <workItem from="1691367634220" duration="13880000" />
+      <workItem from="1691454079988" duration="13451000" />
+      <workItem from="1691500731956" duration="2411000" />
+      <workItem from="1691589509204" duration="143000" />
+      <workItem from="1691626938111" duration="17709000" />
+      <workItem from="1691664943489" duration="1560000" />
+      <workItem from="1691666608386" duration="684000" />
+      <workItem from="1691713690404" duration="12310000" />
+      <workItem from="1691746315232" duration="1839000" />
+      <workItem from="1691886806647" duration="7740000" />
+      <workItem from="1691973524017" duration="10022000" />
+      <workItem from="1692254815154" duration="5651000" />
+      <workItem from="1693030544093" duration="1081000" />
+      <workItem from="1693145530587" duration="1056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-context" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="java:io.minio:minio" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.concurrent.ExecutionException" package="java.util.concurrent" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="hotel-parent" type="b2602c69:ProjectViewProjectNode" />
+        <item name="hotel-parent" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>

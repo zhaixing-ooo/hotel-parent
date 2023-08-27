@@ -1,0 +1,48 @@
+server:
+  port: 8000
+spring:
+  application:
+    name: hotel-gateway-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.6.131:8848
+    gateway:
+      discovery:
+        locator:
+          lower-case-service-id: true
+      enabled: true
+      globalcors:
+        add-to-simple-url-handler-mapping: true # 解决options请求被拦截问题
+        cors-configurations:
+          '[/**]': #所有的请求
+            allowedOrigins: '*'  # 所有来源都允许
+            allowedMethods: # * 表示所有请求的方式都允许
+              - GET
+              - POST
+              - DELETE
+              - PUT
+              - OPTIONS
+            allowedHeaders: "*"    # 允许在请求中携带的头信息
+            maxAge: 360000         # 这次跨域检测的有效期
+      routes:
+        - id: hotel-system-route
+          order: 1
+          uri: lb://hotel-system-service
+          predicates:
+            - Path=/user/**, /login, /role/**
+        - id: hotel-floor-route
+          order: 1
+          uri: lb://hotel-floor-service
+          predicates:
+            - Path=/floor/**
+        - id: hotel-type-route
+          order: 1
+          uri: lb://hotel-type-service
+          predicates:
+            - Path=/roomType/**
+        - id: hotel-room-route
+          order: 1
+          uri: lb://hotel-room-service
+          predicates:
+            - Path=/room/**
