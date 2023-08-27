@@ -23,13 +23,6 @@ import java.util.List;
 import java.util.Objects;
 import java.util.stream.Collectors;
 
-/**
- * @Description
- * @Company: 西安欧鹏
- * @Author: 姚臣伟
- * @Version: 1.0.0
- * @Date: 2023/8/7
- */
 @RestController
 @RequestMapping("/floor")
 public class HotelFloorController {
