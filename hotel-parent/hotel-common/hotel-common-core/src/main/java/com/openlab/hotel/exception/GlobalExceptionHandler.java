@@ -15,9 +15,6 @@ import java.util.Set;
 
 /**
  * @Description 统一异常处理类
- * @Company: 西安欧鹏
- * @Author: 姚臣伟
- * @Version: 1.0.0
  * @Date: 2023/8/4
  */
 @Slf4j

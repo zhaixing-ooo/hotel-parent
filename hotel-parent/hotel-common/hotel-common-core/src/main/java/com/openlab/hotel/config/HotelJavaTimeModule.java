@@ -18,13 +18,7 @@ import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 
-/**
- * @Description
- * @Company: 西安欧鹏
- * @Author: 姚臣伟
- * @Version: 1.0.0
- * @Date: 2023/8/4
- */
+
 public class HotelJavaTimeModule extends SimpleModule {
     public HotelJavaTimeModule() {
         super(PackageVersion.VERSION);
